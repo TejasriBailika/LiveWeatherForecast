@@ -25,3 +25,8 @@ If the city is not found or there is an error, an error message will be displaye
 
 Contributing
 Contributions are welcome! If you have any ideas, enhancements, or bug fixes, feel free to submit a pull request.
+
+## Demo
+Here is a preview of the Live Weather Forecast interface:
+
+![Weather Demo](Demo.png)
